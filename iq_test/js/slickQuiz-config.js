@@ -72,8 +72,8 @@ var quizJSON = {
             {"q": "Apenas a minha religião é a certa.",
             "a": [{"option": "Discordo Plenamente",      "correct": true},{"option": "Discordo",     "correct": true}, {"option": "Neutro",      "correct": true}, {"option": "Concordo",     "correct": true}, {"option": "Concordo Plenamente",     "correct": true}], "select_any": true, "correct": "<p><span>Clique no botão para continuar...</span></p>", "incorrect": "<p><span>Clique no botão para continuar...</span></p>"  },
             {"q": "Minha cultura e meus valores deveriam ser a referência cultural para o resto do mundo",
-            "a": [{"option": "Discordo Plenamente",      "correct": true},{"option": "Discordo",     "correct": true}, {"option": "Neutro",      "correct": true}, {"option": "Concordo",     "correct": true}, {"option": "Concordo Plenamente",     "correct": true}], "select_any": true, "correct": "<p><span>Clique no botão para continuar...</span></p>", "incorrect": "<p><span>Clique no botão para continuar...</span></p>"  },
-            */
+            "a": [{"option": "Discordo Plenamente",      "correct": true},{"option": "Discordo",     "correct": true}, {"option": "Neutro",      "correct": true}, {"option": "Concordo",     "correct": true}, {"option": "Concordo Plenamente",     "correct": true}], "select_any": true, "correct": "<p><span>Clique no botão para continuar...</span></p>", "incorrect": "<p><span>Clique no botão para continuar...</span></p>"  }
+            
             
 
             /*
